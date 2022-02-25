@@ -1,6 +1,6 @@
 ### Shiv Pratap Singh
 
-*More than 4 years of experience in designing and developing scalable serverless system. Development of
+*More than 4.5 years of experience in designing and developing scalable serverless system. Development of
 Cloud based Systems and Architecture with experience in working with technologies like Python, Java,
 AWS, JavaScript.*
 
